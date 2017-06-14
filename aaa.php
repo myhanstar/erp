@@ -11,5 +11,5 @@ namespace aaa;
 
 class aaa
 {
-aaaa
+
 }
